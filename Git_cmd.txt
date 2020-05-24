@@ -5,10 +5,15 @@ git init;
 git remote add origin "<.git frim github>"
 git pull origin master<sync will local to cloud>
 
-Add any file:
--------------
+Add any file in local repo:
+--------------------------
 added .txt file
 git add .
 git status
 git commit -m "added commit status msg"
 git push origin master
+
+Add new file in gitthub repo:
+-----------------------------
+git pull origin master
+git status
