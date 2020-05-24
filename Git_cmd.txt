@@ -1,0 +1,6 @@
+initialization:
+---------------
+
+git init;
+git remote add origin "<.git frim github>"
+git pull origin master<sync will local to cloud>
