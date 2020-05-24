@@ -28,3 +28,10 @@ git add .
 git status
 git commit -m "added new test file in dev"
 git push origin branch-name
+
+Revert a git check out:
+-----------------------
+git reset HEAD Git_dev.txt
+git log
+git reset HEAD~
+git diff
