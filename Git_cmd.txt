@@ -23,3 +23,8 @@ Add new Branch:
 git branch branch-name<create new branch>
 git checkout branch-name<switch to new branch>
 git branch<see all branch>
+add a new .txt file
+git add .
+git status
+git commit -m "added new test file in dev"
+git push origin branch-name
