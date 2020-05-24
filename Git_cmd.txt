@@ -10,3 +10,5 @@ Add any file:
 added .txt file
 git add .
 git status
+git commit -m "added commit status msg"
+git push origin master
