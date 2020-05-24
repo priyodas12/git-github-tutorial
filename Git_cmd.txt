@@ -17,3 +17,9 @@ Add new file in gitthub repo:
 -----------------------------
 git pull origin master
 git status
+
+Add new Branch:
+--------------
+git branch branch-name<create new branch>
+git checkout branch-name<switch to new branch>
+git branch<see all branch>
